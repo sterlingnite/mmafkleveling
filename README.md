@@ -1,4 +1,4 @@
-# Hybrid Word Clicker (Template + OCR)
+# MM AFK LEVELER(Template + OCR)
 
 A lightweight Python automation script for browser games and UI flows that clicks
 on-screen buttons such as **Continue**, **Play**, **Drop**, **Claim**, and **Open**.
